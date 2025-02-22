@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer | Python Developer | Golang Developer 
+Dedicated Backend Developer with over 2 years of experience in designing and implementing scalable backend solutions. Proficient in Python-based frameworks such as Django and FastAPI, REST API development, and system automation. Skilled in leveraging Golang and cloud platforms like AWS to optimize backend processes and improve system performance. Adept at solving complex problems, delivering reliable solutions, and driving business value through technology. 
 
 
 ## 🌐 Socials:
