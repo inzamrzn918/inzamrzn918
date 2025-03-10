@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Backend Developer with over 2 years of experience in designing and implementing scalable backend solutions. Proficient in Python-based frameworks such as Django and FastAPI, REST API development, and system automation. Skilled in leveraging Golang and cloud platforms like AWS to optimize backend processes and improve system performance. Adept at solving complex problems, delivering reliable solutions, and driving business value through technology. 
+Dedicated Backend Developer with over 3+ years of experience in designing and implementing scalable backend solutions. Proficient in Python-based frameworks such as Django and FastAPI, REST API development, and system automation. Skilled in leveraging Golang and cloud platforms like AWS to optimize backend processes and improve system performance. Adept at solving complex problems, delivering reliable solutions, and driving business value through technology. 
 
 
 ## 🌐 Socials:
@@ -17,9 +17,5 @@ Dedicated Backend Developer with over 2 years of experience in designing and imp
 
 ---
 [![](https://visitcount.itsvg.in/api?id=inzamrzn918&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cbscwap@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
